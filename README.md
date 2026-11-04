@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70505&random=false&width=435&lines=Ol%C3%A1!+Conhe%C3%A7a+meu+perfil+no+Github!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=green&random=false&width=435&lines=Ol%C3%A1!+Conhe%C3%A7a+meu+perfil+no+Github!!" alt="Typing SVG" /></a>
 
 - 🔭 Atualmente estou cursando Graduação em Ciência de Dados!
 - 🌱 Contate-me pelo email: zacharingustavo@gmail.com
